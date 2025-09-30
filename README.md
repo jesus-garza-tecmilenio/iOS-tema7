@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# iOS-tema7
-=======
 # Tema 7: Enumeraciones y Navegación en Swift
 
 ## Descripción del Proyecto
@@ -88,7 +85,7 @@ Tema7Swift/
 3. Asegúrate de que el deployment target esté configurado en iOS 16.0
 
 ### 3. Ejecutar la Demo
-1. Selecciona un simulador (iPhone 15 recomendado)
+1. Selecciona un simulador (iPhone 16 recomendado)
 2. Presiona Cmd+R o el botón de "Play" para ejecutar
 3. La app se abrirá mostrando el menú principal con 6 secciones
 
@@ -182,4 +179,3 @@ Si encuentras errores de compilación:
 4. Si hay problemas de firma, configura un equipo de desarrollo válido
 
 El proyecto está listo para usar como material didáctico completo para enseñar enumeraciones y navegación en Swift/SwiftUI.
->>>>>>> 34e761d (Implementación completa del Tema 7: Enumeraciones y Navegación en Swift)
